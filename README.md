@@ -13,7 +13,7 @@
 <br />
 Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve real-world problems and am currently focused on advancing my skills through hands-on projects in data analysis and software development.
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500px" />
 
 ## About Me!
 
