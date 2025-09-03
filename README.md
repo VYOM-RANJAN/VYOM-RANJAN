@@ -23,7 +23,7 @@ Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve r
 * 🤔 Intrigued by the applications of data and technology in solving complex problems.
 * 💬 Always up for a chat about tech, data analysis, or anything under the sun!
 * 📫 Reach out via [email](mailto:ranjanvyom2019@gmail.com) for collaboration or queries.
-* 📝 Dive deeper into my journey through my [Curriculum Vitae](https://drive.google.com/file/d/1EM7ufzv5T8ZllDwPsKx8JbiK3WHYSmzr/view?usp=sharing).
+* 📝 Dive deeper into my journey through my [Curriculum Vitae](https://drive.google.com/file/d/1XZahNCN7cNElRjXQrm6-yJMWvSg7k-hj/view?usp=sharing).
 
 ## Skills
 ### Technical Skills:
