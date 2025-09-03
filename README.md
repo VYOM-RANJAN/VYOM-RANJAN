@@ -3,7 +3,7 @@
 # Hey 👋, I'm Vyom Ranjan!
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-vyom--ranjan--b25638201-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vyom-ranjan-b25638201/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-vyom--ranjan--b25638201-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vyom-ranjan-354360291/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-VYOM--RANJAN-black?style=flat&logo=github)](https://github.com/VYOM-RANJAN/)
 [![Email Badge](https://img.shields.io/badge/Email-ranjanvyom2019@gmail.com-red?style=flat&logo=gmail)](mailto:ranjanvyom2019@gmail.com)
 <br>
@@ -11,14 +11,15 @@
 <img src="https://komarev.com/ghpvc/?username=VYOM-RANJAN&color=blueviolet">
 <br />
 <br />
-Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve real-world problems and am currently focused on advancing my skills through hands-on projects in data analysis and software development.
+Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve real-world problems and am currently focused on advancing my skills through hands-on projects in Data Analysis and Business Analysis.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500px" />
 
 ## About Me!
 
 * 👨🏽‍💻 I completed my B.Tech in Computer Science from Ajay Kumar Garg Engineering College, Ghaziabad.
-* 🌱 Currently advancing in Data Analysis and Software Development.
+* 👩‍💻 Worked as Data Analyst Intern (on-site) for 9 months at Mente Consultancies, New Delhi.
+* 🌱 Currently advancing in Data Analysis .
 * 🤔 Intrigued by the applications of data and technology in solving complex problems.
 * 💬 Always up for a chat about tech, data analysis, or anything under the sun!
 * 📫 Reach out via [email](mailto:ranjanvyom2019@gmail.com) for collaboration or queries.
@@ -28,18 +29,9 @@ Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve r
 ### Technical Skills:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-2C2C2C?style=flat)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-1E88E5?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
